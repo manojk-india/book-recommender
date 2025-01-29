@@ -12,7 +12,4 @@ Libraries
     jupyter
     ipywidgets
 
-Best resource: huggingface.co/learn/nlp-course
-
-1.26.55
 
