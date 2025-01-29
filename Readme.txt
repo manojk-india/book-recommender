@@ -12,4 +12,6 @@ Libraries
     jupyter
     ipywidgets
 
+This is done by following the LLM crash course posted by freecodecamp youtube channel. Thanks to them 
+
 
